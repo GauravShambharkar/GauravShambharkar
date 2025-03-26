@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @GauravShambharkar<br>- 👀 I’m interested in front-end development, UI/UX, and copywriting.<br>- 🌱 I’m currently learning Node.js and Express while improving my JavaScript & ReactJS skills.<br>- 💞️ I’m looking to collaborate on front-end projects, UI/UX opportunities, and creative problem-solving initiatives.<br>- 📫 You can connect with me through my X: [@Gv4Real](https://x.com/Gv4Real)  <br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsjobprofile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Gv4Real) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravs100kar@gmail.com) 
 
 # 💻 Skill set:
