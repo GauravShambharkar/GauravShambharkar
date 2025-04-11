@@ -1,9 +1,9 @@
 <!---👋 Hi, I’m @GauravShambharkar
-- 👀 I’m interested in front-end development, UI/UX, and copywriting.
-- 🌱 I’m currently learning Node.js and Express while improving my JavaScript & ReactJS skills.
+- 👀 I’m highly interested in front-end development, UI/UX, and copywriting.
+- 🌱 I’m currently learning MongoDB  while improving my JavaScript & ReactJS skills.
 - 💞️ I’m looking to collaborate on front-end projects, UI/UX opportunities, and creative problem-solving initiatives.
 - 📫 You can connect with me through my X: [@Gv4Real](https://x.com/Gv4Real)  
-- ⚡ Fun fact: when I’m not coding or writing, I love sketching and diving into programming books!
+- ⚡ Fun fact: when I’m not coding or writing, I love making good music and diving into new creative things!
 --->
 <!---
 GauravShambharkar/GauravShambharkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
