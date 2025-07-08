@@ -1,5 +1,5 @@
 <!---👋 Hi, I’m @GauravShambharkar
-- 👀 I’m highly interested in front-end development, UI/UX, and copywriting.
+- 👀 I’m highly interested in front-end development, UI/UX.
 - 🌱 I’m currently learning MongoDB  while improving my JavaScript & ReactJS skills.
 - 💞️ I’m looking to collaborate on front-end projects, UI/UX opportunities, and creative problem-solving initiatives.
 - 📫 You can connect with me through my X: [@Gv4Real](https://x.com/Gv4Real)  
