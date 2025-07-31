@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 🧑‍💻 About Me:
-- 👋 Hi, I’m Gaurav Shambharkar<br>- 👀 I’m interested in front-end development, UI/UX, and copywriting.<br>- 🌱 I’m currently learning Node.js and Express while improving my JavaScript & ReactJS skills.<br>- 💞️ I’m looking to collaborate on front-end projects, UI/UX opportunities, and creative problem-solving initiatives.<br>- 📫 You can connect with me through my social's  <br>
+- 👋 Hi, I’m Gaurav Shambharkar<br>- 👀 I’m interested in MERN development, UI/UX.<br>- 🌱 I’m currently working on various helpful ideas that a few percentage of the population might need.<br>- 💞️ I’m looking to collaborate on front-end projects, backend projects as well as UI/UX opportunities, and creative problem-solving initiatives.<br>- 📫 You can connect with me through my socials  <br>
 
 
 # 🌐 Socials:
