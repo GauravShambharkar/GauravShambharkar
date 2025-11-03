@@ -1,31 +1,82 @@
-<!---👋 Hi, I’m @GauravShambharkar
-- 👀 I’m highly interested in MERN development, UI/UX.
-- 🌱 I’m currently working on various helpful ideas that a few percentage of the population might need.
-- 💞️ I’m looking to collaborate on front-end projects, backend projects and UI/UX opportunities, and creative problem-solving initiatives.
-- 📫 You can connect with me through my X: [@Gv4Real](https://x.com/Gv4Real)  
-- ⚡ Fun fact: when I’m not coding or writing, I love producing music and diving into new creative things!
---->
-<!---
-GauravShambharkar/GauravShambharkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--✨ FUTURISTIC PROFILE README ✨-->
+<!-- Designed by Gaurav Shambharkar -->
 
-# 🧑‍💻 About Me:
-- 👋 Hi, myself Gaurav Shambharkar<br>- 👀 I’m interested in MERN development, UI/UX.<br>- 🌱 I’m currently working on various helpful ideas that a few percentage of the population might need.<br>- 💞️ I’m looking to collaborate on front-end projects, backend projects as well as UI/UX opportunities, and creative problem-solving initiatives.<br>- 📫 You can connect with me through my socials  <br>
-
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsjobprofile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Gv4Real) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravs100kar@gmail.com) 
-
-# 💻 Skill set:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GV&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=4000&pause=2000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gaurav+Shambharkar+👋;Full-Stack+MERN+Developer+⚡;UI%2FUX+Thinker+🎨;Creative+Problem+Solver+🚀" alt="Typing SVG" />
+</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GV&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me  
+
+💡 **Creative Technologist | MERN Developer | UI/UX Enthusiast**  
+I blend **design, logic, and innovation** to build digital experiences that are not only functional — but *futuristic*.  
+
+🚀 I’m currently developing **helpful tools** that serve niche problems only a few people think about.  
+🤝 I love **collaborating** on front-end & backend projects that push creative or technical boundaries.  
+🎧 Outside of tech, I’m a **music producer** who experiments with sound the same way I experiment with code.  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/gauravsjobprofile"><img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/Gv4Real"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="mailto:gauravs100kar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+## 🧩 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,vite,postman,figma,framer,java" />
+</p>
+
+<details>
+<summary>🔍 Click to view full list</summary>
+
+| Frontend | Backend | Tools & Design |
+|-----------|----------|----------------|
+| React, Redux, Vite, Context-API | Node.js, Express.js | Postman, Git, Figma, Framer |
+| React Router, React Hook Form | MongoDB | VS Code, Chrome DevTools |
+
+</details>
+
+---
+
+## ⚡ Current Focus  
+
+🧬 Building real-world MERN applications that **solve rare but meaningful problems**  
+🎯 Enhancing my design systems thinking through **UI/UX experiments**  
+🧠 Exploring the intersection of **AI + Web Development**  
+
+---
+
+## 🧮 GitHub Insights  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GauravShambharkar&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=GauravShambharkar&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravShambharkar&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🪐 Quote of the Day  
+> *“The future belongs to those who code it.”*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GauravShambharkar&label=Visitors&color=00FFD1&style=for-the-badge" alt="profile views"/>
+</p>
+
+---
+
+<h3 align="center">🚀 Built with code, design & imagination by <a href="https://github.com/GauravShambharkar">Gaurav Shambharkar</a></h3>
+
