@@ -1,82 +1,57 @@
-<!--✨ FUTURISTIC PROFILE README ✨-->
-<!-- Designed by Gaurav Shambharkar -->
+# Hi, I'm Gaurav 👋
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=4000&pause=2000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gaurav+👋;Full-Stack+MERN+Developer+⚡;UI%2FUX+Thinker+🎨;Creative+Problem+Solver+🚀" alt="Typing SVG" />
-</h1>
+Full-Stack Developer crafting elegant solutions with **MERN Stack** ⚡
 
----
-
-## 🧠 About Me  
-
-💡 **Creative Technologist | MERN Developer | UI/UX Enthusiast**  
-I blend **design, logic, and innovation** to build digital experiences that are not only functional — but *futuristic*.  
-
-🚀 I’m currently developing **helpful tools** that serve niche problems only a few people think about.  
-🤝 I love **collaborating** on front-end & backend projects that push creative or technical boundaries.  
-🎧 Outside of tech, I’m a **music producer** who experiments with sound the same way I experiment with code.  
+Building tools that solve niche problems & experimenting at the intersection of code and design.
 
 ---
 
-## 🌐 Connect With Me  
+## What I Do
 
-<p align="center">
-  <a href="https://linkedin.com/in/gauravsjobprofile"><img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/Gv4Real"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="mailto:gauravs100kar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
----
-
-## 🧩 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,vite,postman,figma,framer,java" />
-</p>
-
-<details>
-<summary>🔍 Click to view full list</summary>
-
-| Frontend | Backend | Tools & Design |
-|-----------|----------|----------------|
-| React, Redux, Vite, Context-API | Node.js, Express.js | Postman, Git, Figma, Framer |
-| React Router, React Hook Form | MongoDB | VS Code, Chrome DevTools |
-
-</details>
+- 🎯 Develop full-stack applications with **React**, **Node.js**, and **MongoDB**
+- 🎨 Design intuitive interfaces that balance form and function
+- 🚀 Create helpful tools for problems others overlook
+- 🎧 Produce music when I'm not producing code
 
 ---
 
-## ⚡ Current Focus  
+## Tech Stack
 
-🧬 Building real-world MERN applications that **solve rare but meaningful problems**  
-🎯 Enhancing my design systems thinking through **UI/UX experiments**  
-🧠 Exploring the intersection of **AI + Web Development**  
-
----
-
-## 🧮 GitHub Insights  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GauravShambharkar&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=GauravShambharkar&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravShambharkar&layout=compact&theme=radical&hide_border=true" />
-</p>
+**Frontend:** React • Redux • Vite • JavaScript  
+**Backend:** Node.js • Express • MongoDB  
+**Design:** Figma • Framer  
+**Tools:** Git • Postman • VS Code
 
 ---
 
-## 🪐 Quote of the Day  
-> *“The future belongs to those who code it.”*
+## Currently
+
+Exploring AI integration in web development while building real-world MERN applications and refining UI/UX design systems.
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsjobprofile)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Gv4Real)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gauravs100kar@gmail.com)
+
+---
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=GauravShambharkar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=GauravShambharkar&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GauravShambharkar&label=Visitors&color=00FFD1&style=for-the-badge" alt="profile views"/>
+  <i>"The future belongs to those who code it."</i>
 </p>
 
----
-
-<h3 align="center">🚀 Built with code, design & imagination by <a href="https://github.com/GauravShambharkar">Gaurav Shambharkar</a></h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GauravShambharkar&color=58a6ff&style=flat" alt="Profile views"/>
+</p>
