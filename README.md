@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 
 ### Full-Stack MERN Developer • UI/UX 
@@ -22,7 +22,7 @@
 
 <br clear="right"/>
 
----
+--- -->
 
 ### 🛠️ Tech Arsenal
 
