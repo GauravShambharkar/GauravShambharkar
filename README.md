@@ -24,8 +24,6 @@
 
 --- -->
 
-### 🛠️ Tech Arsenal
-
 #### **Languages**
 <div align="left">
 
