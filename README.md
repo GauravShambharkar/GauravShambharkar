@@ -25,9 +25,10 @@
 --- -->
 
 # Projects
-- ![Dev Cheats]((https://dev-cheats-gray.vercel.app/)) 
-- ![Movies Streaming App]((https://movies-streaming-app-mauve.vercel.app/))
-- ![Personal Portfolio]((https://akagv.vercel.app/))
+- [Dev Cheats](https://dev-cheats-gray.vercel.app/)
+- [Movies Streaming App](https://movies-streaming-app-mauve.vercel.app/)
+- [Personal Portfolio](https://akagv.vercel.app/)
+
 
 #### **Languages**
 <div align="left">
