@@ -30,7 +30,7 @@
 - [Personal Portfolio](https://akagv.vercel.app/)
 
 
-#### **Languages**
+# Languages
 <div align="left">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
