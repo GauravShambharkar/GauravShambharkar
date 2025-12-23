@@ -24,7 +24,7 @@
 
 --- -->
 
-# Projects
+# Live Projects
 - [Dev Cheats](https://dev-cheats-gray.vercel.app/)
 - [Movies Streaming App](https://movies-streaming-app-mauve.vercel.app/)
 - [Personal Portfolio](https://akagv.vercel.app/)
